@@ -1,7 +1,7 @@
 # 📦 YawStar Dance-Box
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![Version](https://img.shields.io/badge/Version-1.0.0.11-00A9E0?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0.12-00A9E0?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Free-brightgreen?style=for-the-badge)
 
 **YawStar Dance-Box** သည် မြန်မာနိုင်ငံမှ အင်တာနက်အသုံးပြုသူများအတွက် အထူးရည်ရွယ်၍ ဖန်တီးထားသော၊ အသုံးပြုရလွယ်ကူပြီး အစွမ်းထက်သည့် **Free VPN Client** တစ်ခုဖြစ်ပါသည်။
